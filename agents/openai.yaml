@@ -1,0 +1,6 @@
+interface:
+  display_name: "深度学习指导"
+  short_description: "结合本地业务证据深入学习技术原理、工程实践与面试知识"
+  default_prompt: "使用 $learn-business-deeply 帮我从基础原理、本地业务链路和面试迁移三个层次深入学习当前问题。"
+policy:
+  allow_implicit_invocation: false
